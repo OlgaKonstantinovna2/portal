@@ -1,0 +1,16 @@
+export const URL_PARAMS = {
+  SOURCE_LANGUAGE: 'sln',
+  TARGET_LANGUAGE: 'tln',
+  LESSON_MODE: 'lmd',
+  PURPOSE: 'prp',
+  SOURCE_LEVEL: 'slv',
+  TUTOR_LEVEL: 'tlv',
+  TUTOR_GENDER: 'tgn',
+  TUTOR_COUNTRY: 'tcn',
+  TUTOR_CITY: 'tct',
+  LESSON_PRICE: 'lpr',
+  LESSON_PRICE_MIN: 'lpr_min',
+  LESSON_PRICE_MAX: 'lpr_max',
+  CURRENCY: 'cur',
+  DISTANCE: 'dst',
+} as const;

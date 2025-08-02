@@ -1,0 +1,10 @@
+export { default as ProfileHeader } from './ProfileHeader.svelte';
+export { default as ProfileBasicInfo } from './ProfileBasicInfo.svelte';
+export { default as ProfileLocation } from './ProfileLocation.svelte';
+export { default as ProfileSubjects } from './ProfileSubjects.svelte';
+export { default as ProfileBio } from './ProfileBio.svelte';
+export { default as ProfilePreferences } from './ProfilePreferences.svelte';
+export { default as ProfilePricing } from './ProfilePricing.svelte';
+export { default as ProfileAudio } from './ProfileAudio.svelte';
+export { default as ProfilePassword } from './ProfilePassword.svelte';
+export { default as ProfileActions } from './ProfileActions.svelte';
